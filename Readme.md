@@ -1,4 +1,4 @@
-# Algorithmic Odyssey
+# Recursion & Backtracking
 
 Embark on a journey mastering DSA with recursion and backtracking. 🚀
 
