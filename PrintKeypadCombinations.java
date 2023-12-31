@@ -1,6 +1,6 @@
 public class PrintKeypadCombinations {
     public static void main(String[] args) {
-        String ques = "237";
+        String ques = "678";
         printKeypad(ques, "");
     }
 
